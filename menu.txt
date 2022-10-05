@@ -1,0 +1,30 @@
+1Com Ga-150000
+2Ga chien mam-90000
+3Tom nuong-85000
+4Muc hap bia-100000
+5Chao ngheu-200000
+6Cut lon xao me-35000
+7Diep nuong-100000
+8Com chien trung-60000
+9Com chien hai san-90000
+10Com chien duong chau-80000
+11Ech xao sa ot-100000
+12Lau hai san-250000
+13Lau thai-220000
+14Ga u muoi-150000
+15Ga bo xoi-200000
+16Xoi met nho-50000
+17Xoi met lon-70000
+18Bun-15000
+19Lac rang-10000
+20Dau hu chien-20000
+21Suon nuong-150000
+22Combo nuong bo-250000
+23Bia Sai Gon-230000
+24Bia Huda-220000
+25bia Heniken-450000
+26Ruou gao-60000
+27Nuoc khoang-5000
+28Cocacola-10000
+29Milinda-10000
+30Tra gung-15000

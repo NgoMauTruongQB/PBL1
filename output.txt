@@ -1,0 +1,91 @@
+Code Day: 07082022
+
+======================= BILL 1 =======================
+STT       Ten San Pham       So Luong       Thanh Tien
+1         Com Ga                      4              600000d
+2         Chao ngheu                  2              400000d
+------------------------------------------------------
+Total: 1000000d
+Discount(%): 0
+TOTAL: 1000000d
+======================================================
+
+
+        ========== MENU ==========
+        1. Com Ga                  150000d
+        2. Ga chien mam            90000d
+        3. Tom nuong               85000d
+        4. Muc hap bia             100000d
+        5. Chao ngheu              200000d
+        6. Cut lon xao me          35000d
+        7. Diep nuong              100000d
+        8. Com chien trung         60000d
+        9. Com chien hai san       90000d
+        10. Com chien duong chau    80000d
+        11. Ech xao sa ot           100000d
+        12. Lau hai san             250000d
+        13. Lau thai                220000d
+        14. Ga u muoi               150000d
+        15. Ga bo xoi               200000d
+        16. Xoi met nho             50000d
+        17. Xoi met lon             70000d
+        18. Bun                     15000d
+        19. Lac rang                10000d
+        20. Dau hu chien            20000d
+        21. Suon nuong              150000d
+        22. Combo nuong bo          250000d
+        23. Bia Sai Gon             230000d
+        24. Bia Huda                220000d
+        25. bia Heniken             450000d
+        26. Ruou gao                60000d
+        27. Nuoc khoang             5000d
+        28. Cocacola                10000d
+        29. Milinda                 10000d
+        30. Tra gung                15000d
+        ==========================
+TOTAL OF DAY: 1000000d
+------------------------------------------------------------------------------
+
+        ========== MENU ==========
+        1. Com Ga                  150000d
+        2. Ga chien mam            90000d
+        3. Tom nuong               85000d
+        4. Muc hap bia             100000d
+        5. Chao ngheu              200000d
+        6. Cut lon xao me          35000d
+        7. Diep nuong              100000d
+        8. Com chien trung         60000d
+        9. Com chien hai san       90000d
+        10. Com chien duong chau    80000d
+        11. Ech xao sa ot           100000d
+        12. Lau hai san             250000d
+        13. Lau thai                220000d
+        14. Ga u muoi               150000d
+        15. Ga bo xoi               200000d
+        16. Xoi met nho             50000d
+        17. Xoi met lon             70000d
+        18. Bun                     15000d
+        19. Lac rang                10000d
+        20. Dau hu chien            20000d
+        21. Suon nuong              150000d
+        22. Combo nuong bo          250000d
+        23. Bia Sai Gon             230000d
+        24. Bia Huda                220000d
+        25. bia Heniken             450000d
+        26. Ruou gao                60000d
+        27. Nuoc khoang             5000d
+        28. Cocacola                10000d
+        29. Milinda                 10000d
+        30. Tra gung                15000d
+        ==========================
+TOTAL OF DAY: 0d
+------------------------------------------------------------------------------
+Code Day: 08072022
+
+======================= BILL 1 =======================
+STT       Ten San Pham       So Luong       Thanh Tien
+1         Com Ga                      2              300000d
+------------------------------------------------------
+Total: 300000d
+Discount(%): 0
+TOTAL: 300000d
